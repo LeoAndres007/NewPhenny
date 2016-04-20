@@ -1,9 +1,12 @@
 # NewPhenny
 Nuevo Phenny
-Instalacio.
+
+Instalacion.
 
 1) Run: ./phenny - esto crea un archivo de configuración por defecto
+
 2) Edit: ~/.newphenny/default.py
+
 3) Run: ./phenny - esto ahora se ejecuta divertido con sus ajustes
 
 ¡Disfrutar!
