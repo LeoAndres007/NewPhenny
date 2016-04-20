@@ -15,4 +15,4 @@ Sean B. Palmer, http://inamidst.com/sbp/
 
 Este Phenny esta diseñado por Sean B. Palmer, editado por Leo H. Romero con nuevos modulos muy buenos :) 
 
-Si tienes alguna duda dirijete a _-Leo-_ en el servidor freenode aunque arranca bien :) alli esta la manera de instalar 
+Si tienes alguna duda dirijete a _-Leo-_ en el servidor <a href="https://webchat.freenode.net/?channels=#U_U" target="_blank">FreeNode</a>
